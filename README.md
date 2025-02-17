@@ -11,3 +11,9 @@ Tu misión principal es recolectar gemas 💎 para desbloquear puertas cerradas 
 - **W, A, S, D**: Mover al personaje en las direcciones correspondientes. 🏃‍♂️
 - **Espacio**: Saltar. 🦘
 - **E**: Interactuar con objetos. 🔑
+
+## 📂 Enlace de descarga
+
+Puedes descargar el juego desde el siguiente enlace de Google Drive:  
+[Buscar y descargar Searching Haría](https://drive.google.com/drive/folders/1a77KkP2auuwpH7se2Txj8yUpKeZEb1__?usp=sharing)
+
