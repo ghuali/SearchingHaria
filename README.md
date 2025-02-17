@@ -17,3 +17,9 @@ Tu misión principal es recolectar gemas 💎 para desbloquear puertas cerradas 
 Puedes descargar el juego desde el siguiente enlace de Google Drive:  
 [Buscar y descargar Searching Haría](https://drive.google.com/drive/folders/1a77KkP2auuwpH7se2Txj8yUpKeZEb1__?usp=sharing)
 
+
+## 📂 Numero de Commits en Unity
+
+Captura del numero de commits en Unity version control
+![image](https://github.com/user-attachments/assets/a6a5c31d-1f60-4b54-a4a5-b3e56ecdabd8)
+
